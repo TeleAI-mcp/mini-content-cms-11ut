@@ -1,2 +1,3 @@
-# mini-content-cms-11ut
-Automated issue comment bot repository
+# Mini Content Cms 11Ut
+
+Automated issue comment bot repository.
